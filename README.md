@@ -44,6 +44,10 @@ Each bot automatically reacts to messages, boosting engagement and activity acro
 
 ---
 
+💡 **If you still have confusion about deployment, watch this video:**  
+🔗 [Click Here For Video](https://t.me/MagicalCoders/18)
+
+
 <p align="center">
   <a href="https://workers.cloudflare.com/?utm_source=github&utm_medium=deploy-button&utm_campaign=cloudflare-workers-deploy">
     <img src="https://img.shields.io/badge/🚀_Deploy_on_Cloudflare_Workers-111?style=for-the-badge&logo=cloudflare&logoColor=white&color=f38020" alt="Deploy on Cloudflare Workers"/>
