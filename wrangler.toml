@@ -1,0 +1,25 @@
+name = "YourWorkerNameHere"
+main = "TgMultiAutoReact.ts"
+compatibility_date = "2025-09-16"
+workers_dev = true
+
+# Provide BOT_TOKENS as a JSON array or comma-separated string;
+# You Can Add Multiple Unlimited Bot Tokens ( Make Sure The All Tokens Are Correct and Added in The Same Format) 
+
+[vars]
+BOT_TOKENS = """[
+  "Bot Token 1",
+  "Bot Token 2",
+  "Bot Token 3",
+  "Bot Token 4",
+  "Bot Token 5",
+  
+  "Last Bot Token"
+]"""
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
+
+
+
